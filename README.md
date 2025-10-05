@@ -20,10 +20,9 @@
   
 ## How to run 
 1. Create and activate a Python virtual environment :
+    bash
+    python -m venv venv
 
-bash
-python -m venv venv
+    source venv/bin/activate # Linux / macOS
 
-source venv/bin/activate # Linux / macOS
-
-venv\Scripts\activate # Windows PowerShell  
+    venv\Scripts\activate # Windows PowerShell  
