@@ -1,7 +1,9 @@
 # SLIC Motor Insurance Claims Analysis & Risk Modelling 
 
 **Project**: Motor Insurance Claims Analysis & Risk Modelling for Sri Lanka Insurance Corporation (SLIC) — simulated microdata calibrated to SLIC 2024 Annual Report metrics. 
-**Author**: Pasindu Perera ## Overview This repository contains a reproducible end-to-end analysis: data simulation, EDA, actuarial modelling (frequency & severity), pure premium calculation, pricing recommendations, and reserving (IBNR) using Chain-Ladder methods.
+**Author**: Pasindu Perera 
+
+## Overview This repository contains a reproducible end-to-end analysis: data simulation, EDA, actuarial modelling (frequency & severity), pure premium calculation, pricing recommendations, and reserving (IBNR) using Chain-Ladder methods.
 
 ## Key Deliverables 
 - notebooks/SLIC_Motor_Insurance_Analysis.ipynb
