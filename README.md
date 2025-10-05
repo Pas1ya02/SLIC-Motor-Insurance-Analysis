@@ -18,7 +18,8 @@
 4. Estimate IBNR using Chain-Ladder and provide reserving guidance.
 5. Produce report and slides suitable for hiring managers and actuarial recruiters.
   
-## How to run 1. Create and activate a Python virtual environment :
+## How to run 
+1. Create and activate a Python virtual environment :
 
 bash
 python -m venv venv
